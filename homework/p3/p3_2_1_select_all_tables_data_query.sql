@@ -1,6 +1,6 @@
 USE `goit-rdb-hw-03`;
 
-# Combined table for order_details, orders, customers, products, categories, employees, shippers, suppliers
+-- Combined table for order_details, orders, customers, products, categories, employees, shippers, suppliers
 SELECT 
     order_details.id,
     # columns from orders
