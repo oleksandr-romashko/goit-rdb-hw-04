@@ -66,11 +66,7 @@
 
 Solutions are represented in [homework](./homework/) folder:
 
-1. Part 1: 
-  ...
-2. Part 2:
-  ...
-3. Part 3:
-   ...
-4. Part 4:
-   ...
+1. Part 1: solution for this task part is placed in [homework/p1](./homework/p1) folder.
+2. Part 2: solution for this task part is placed in [homework/p2](./homework/p2) folder.
+3. Part 3: solution for this task part is placed in [homework/p3](./homework/p3) folder.
+4. Part 4: solution for this task part is placed in [homework/p4](./homework/p4) folder.
