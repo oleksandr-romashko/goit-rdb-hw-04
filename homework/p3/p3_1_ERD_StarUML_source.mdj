@@ -2041,8 +2041,7 @@
 									"$ref": "AAAAAAGSHp5nZIJNE7w="
 								},
 								"cardinality": "1..*"
-							},
-							"identifying": false
+							}
 						}
 					],
 					"columns": [
@@ -2134,8 +2133,7 @@
 								"reference": {
 									"$ref": "AAAAAAGSHowGo4GGClo="
 								}
-							},
-							"identifying": false
+							}
 						}
 					],
 					"columns": [
